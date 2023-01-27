@@ -1,17 +1,4 @@
 {
-    "10.6.1 - Stability Increase": {},
-    "11.0.1 - Intermediate Digits": {},
-    "11.1.1 - Intermediate Digits": {},
-    "11.2.0 - Intermediate Digits": {
-        "bootloader.bin": 1180,
-        "firmware.bin": 889,
-        "html.zip": 752,
-        "partitions.bin": 1121
-    },
-    "11.3.1 - Intermediate Digits": {
-        "firmware.bin": 2163,
-        "html.zip": 2009
-    },
     "12.0.1": {
         "firmware.bin": 4015,
         "html-from-11.3.1.zip": 3213,
