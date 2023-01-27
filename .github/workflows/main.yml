@@ -30,9 +30,9 @@ jobs:
         mkdir -P database
         cd database
         filename=`date +%m-%d-%Y.json`
-        git add $filename
-        git commit -m "update database"
-        git push
+        #git add $filename
+        #git commit -m "update database"
+        #git push
         
         
         
