@@ -15,9 +15,23 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.10'
+        python-version: '3.10'        
         
-        
-    - name: Update Stats
+    - name: Extract Stats
       run: |
         python main.py
+        
+    - name: Update Stats
+      run: |        
+        git checkout 'gh-pages'
+        git pull
+        mkdir -P database
+        cd database
+        filename=`date +%m-%d-%Y.json`
+        git add $filename
+        git commit -m "update database"
+        git push
+        
+        
+        
+        
