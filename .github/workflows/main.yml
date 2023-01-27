@@ -23,6 +23,9 @@ jobs:
         
     - name: Update Stats
       run: |        
+        git status
+        git branch
+        git branch -r
         git checkout 'gh-pages'
         git pull
         mkdir -P database
