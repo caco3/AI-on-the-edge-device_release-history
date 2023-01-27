@@ -29,5 +29,5 @@ pprint(summary)
 
 filename = date.today().strftime("%Y-%m-%d") + ".json"
 
-with open(filename, "w") as outfile:
+with open("database/" + filename, "w") as outfile:
     json.dump(summary, outfile)
