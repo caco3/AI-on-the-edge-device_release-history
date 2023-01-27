@@ -1,6 +1,10 @@
 name: Fetch Release Statistics
 
-on: [push, workflow_dispatch]
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # on every midnight
 
 permissions:
   actions: write
