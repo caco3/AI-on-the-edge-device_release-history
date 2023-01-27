@@ -2,7 +2,7 @@ name: Fetch Release Statistics
 
 on:
   push:
-  workflow_dispatch:
+  workflow_dispatch: # Manually triggered
   schedule:
     - cron: '0 0 * * *' # on every midnight
 
