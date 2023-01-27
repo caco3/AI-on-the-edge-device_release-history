@@ -20,19 +20,10 @@ jobs:
       run: |
         python main.py
         
-    - name: Update Stats
-      run: |        
-        git status
-        git branch
-        git branch -r
-        git checkout 'gh-pages'
-        git pull
-        mkdir -P database
-        cd database
-        filename=`date +%m-%d-%Y.json`
-        #git add $filename
-        #git commit -m "update database"
-        #git push
+    - uses: EndBug/add-and-commit@v9
+      with:
+        message: 'Update statistics'
+        add: '*.json --force'
         
         
         
