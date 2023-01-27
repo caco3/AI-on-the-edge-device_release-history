@@ -30,4 +30,4 @@ pprint(summary)
 filename = date.today().strftime("%Y-%m-%d") + ".json"
 
 with open("database/" + filename, "w") as outfile:
-    json.dump(summary, outfile)
+    json.dump(summary, outfile, indent=4, sort_keys=True)
