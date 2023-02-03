@@ -1,0 +1,29 @@
+{
+    "12.0.1": {
+        "firmware.bin": 4054,
+        "html-from-11.3.1.zip": 3248,
+        "initial_esp32_setup.zip": 3508,
+        "update.zip": 2248
+    },
+    "13.0.5": {
+        "firmware.bin": 366,
+        "html-from-11.3.1.zip": 242,
+        "initial_esp32_setup.zip": 350,
+        "update.zip": 807
+    },
+    "13.0.7": {
+        "firmware.bin": 423,
+        "html-from-11.3.1.zip": 286,
+        "initial_esp32_setup.zip": 483,
+        "update.zip": 945
+    },
+    "13.0.8": {
+        "initial_esp32_setup__13.0.8.zip": 3310,
+        "update__13.0.8.zip": 2794
+    },
+    "14.0.0": {
+        "AI-on-the-edge-device__manual-setup__v14.0.0.zip": 41,
+        "AI-on-the-edge-device__remote-setup__v14.0.0.zip": 23,
+        "AI-on-the-edge-device__update__v14.0.0.zip": 112
+    }
+}
