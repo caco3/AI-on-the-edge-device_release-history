@@ -1,0 +1,27 @@
+{
+    "11.2.0 - Intermediate Digits": {
+        "bootloader.bin": 1188,
+        "firmware.bin": 904,
+        "html.zip": 768,
+        "partitions.bin": 1129
+    },
+    "11.3.1 - Intermediate Digits": {
+        "firmware.bin": 2208,
+        "html.zip": 2054
+    },
+    "12.0.1": {
+        "firmware.bin": 4117,
+        "html-from-11.3.1.zip": 3305,
+        "initial_esp32_setup.zip": 3529,
+        "update.zip": 2305
+    },
+    "13.0.8": {
+        "initial_esp32_setup__13.0.8.zip": 3358,
+        "update__13.0.8.zip": 2919
+    },
+    "14.0.3": {
+        "AI-on-the-edge-device__manual-setup__v14.0.3.zip": 978,
+        "AI-on-the-edge-device__remote-setup__v14.0.3.zip": 483,
+        "AI-on-the-edge-device__update__v14.0.3.zip": 1195
+    }
+}
