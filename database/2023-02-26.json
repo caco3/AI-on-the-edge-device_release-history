@@ -1,0 +1,26 @@
+{
+    "11.3.1 - Intermediate Digits": {
+        "firmware.bin": 2224,
+        "html.zip": 2070
+    },
+    "12.0.1": {
+        "firmware.bin": 4147,
+        "html-from-11.3.1.zip": 3332,
+        "initial_esp32_setup.zip": 3534,
+        "update.zip": 2333
+    },
+    "13.0.8": {
+        "initial_esp32_setup__13.0.8.zip": 3383,
+        "update__13.0.8.zip": 2976
+    },
+    "14.0.3": {
+        "AI-on-the-edge-device__manual-setup__v14.0.3.zip": 1440,
+        "AI-on-the-edge-device__remote-setup__v14.0.3.zip": 701,
+        "AI-on-the-edge-device__update__v14.0.3.zip": 1591
+    },
+    "15.0.1": {
+        "AI-on-the-edge-device__manual-setup__v15.0.1.zip": 145,
+        "AI-on-the-edge-device__remote-setup__v15.0.1.zip": 71,
+        "AI-on-the-edge-device__update__v15.0.1.zip": 228
+    }
+}
