@@ -79,7 +79,7 @@ fig.update_layout(legend=dict(title="Versions"))
 
 # fig.show()
 
-os.mkdir(html)
+os.mkdir("html")
 fig.write_html("html/index.html")
 
 
