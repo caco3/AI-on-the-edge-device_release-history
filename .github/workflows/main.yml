@@ -27,6 +27,11 @@ jobs:
       with:
         python-version: '3.10'
 
+    - name: Add Python Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install --upgrade plotly
+
     - name: Extract Stats
       run: |
         python fetch.py
