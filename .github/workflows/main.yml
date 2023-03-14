@@ -39,7 +39,7 @@ jobs:
     - uses: EndBug/add-and-commit@v9
       with:
         message: 'Update statistics'
-        add: '*.json index.html --force'
+        add: '*.json --force'
 
     - name: Generate Plot
       run: |
