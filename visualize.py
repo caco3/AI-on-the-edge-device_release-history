@@ -78,6 +78,8 @@ fig.update_yaxes(title_text='Cumulated Downloads')
 fig.update_layout(legend=dict(title="Versions"))
 
 # fig.show()
-fig.write_html("index.html")
+
+os.mkdir(html)
+fig.write_html("html/index.html")
 
 
