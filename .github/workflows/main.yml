@@ -25,17 +25,21 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.10'        
-        
+        python-version: '3.10'
+
     - name: Extract Stats
       run: |
         python fetch.py
-        ls -lh
-        
+
+    - name: Generate Plot
+      run: |
+        python visualize.py
+
     - uses: EndBug/add-and-commit@v9
       with:
         message: 'Update statistics'
         add: '*.json --force'
+        add: 'index.html --force'
         
         
         
