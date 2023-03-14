@@ -25,7 +25,7 @@ for releaseIndex in range(0, len(data_json)):
 
 
 
-pprint(summary)
+#pprint(summary)
 
 filename = date.today().strftime("%Y-%m-%d") + ".json"
 
