@@ -30,7 +30,7 @@ jobs:
     - name: Add Python Dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install --upgrade plotly
+        pip install --upgrade plotly pandas
 
     - name: Extract Stats
       run: |
