@@ -29,7 +29,7 @@ jobs:
         
     - name: Extract Stats
       run: |
-        python main.py
+        python fetch.py
         ls -lh
         
     - uses: EndBug/add-and-commit@v9
