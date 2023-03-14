@@ -18,10 +18,10 @@
     },
     "13.0.8": {
         "initial_esp32_setup__13.0.8.zip": 3405,
-        "update__13.0.8.zip": 3089
+        "update__13.0.8.zip": 3090
     },
     "14.0.3": {
-        "AI-on-the-edge-device__manual-setup__v14.0.3.zip": 1481,
+        "AI-on-the-edge-device__manual-setup__v14.0.3.zip": 1482,
         "AI-on-the-edge-device__remote-setup__v14.0.3.zip": 718,
         "AI-on-the-edge-device__update__v14.0.3.zip": 1704
     },
@@ -37,12 +37,12 @@
     },
     "15.0.3": {
         "AI-on-the-edge-device__manual-setup__v15.0.3.zip": 1080,
-        "AI-on-the-edge-device__remote-setup__v15.0.3.zip": 900,
+        "AI-on-the-edge-device__remote-setup__v15.0.3.zip": 914,
         "AI-on-the-edge-device__update__v15.0.3.zip": 1204
     },
     "15.1.0": {
-        "AI-on-the-edge-device__manual-setup__v15.1.0.zip": 171,
-        "AI-on-the-edge-device__remote-setup__v15.1.0.zip": 67,
-        "AI-on-the-edge-device__update__v15.1.0.zip": 336
+        "AI-on-the-edge-device__manual-setup__v15.1.0.zip": 177,
+        "AI-on-the-edge-device__remote-setup__v15.1.0.zip": 73,
+        "AI-on-the-edge-device__update__v15.1.0.zip": 352
     }
 }
