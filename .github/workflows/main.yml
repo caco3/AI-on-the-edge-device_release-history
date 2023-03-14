@@ -38,8 +38,9 @@ jobs:
     - uses: EndBug/add-and-commit@v9
       with:
         message: 'Update statistics'
-        add: '*.json --force'
-        add: 'index.html --force'
+        add:
+         - '*.json --force'
+         - 'index.html --force'
         
         
         
