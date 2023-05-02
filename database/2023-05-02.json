@@ -1,0 +1,51 @@
+{
+    "13.0.8": {
+        "initial_esp32_setup__13.0.8.zip": 3455,
+        "update__13.0.8.zip": 3235
+    },
+    "14.0.3": {
+        "AI-on-the-edge-device__manual-setup__v14.0.3.zip": 1546,
+        "AI-on-the-edge-device__remote-setup__v14.0.3.zip": 740,
+        "AI-on-the-edge-device__update__v14.0.3.zip": 1834
+    },
+    "15.0.1": {
+        "AI-on-the-edge-device__manual-setup__v15.0.1.zip": 359,
+        "AI-on-the-edge-device__remote-setup__v15.0.1.zip": 181,
+        "AI-on-the-edge-device__update__v15.0.1.zip": 574
+    },
+    "15.0.2": {
+        "AI-on-the-edge-device__manual-setup__v15.0.2.zip": 97,
+        "AI-on-the-edge-device__remote-setup__v15.0.2.zip": 51,
+        "AI-on-the-edge-device__update__v15.0.2.zip": 214
+    },
+    "15.0.3": {
+        "AI-on-the-edge-device__manual-setup__v15.0.3.zip": 1106,
+        "AI-on-the-edge-device__remote-setup__v15.0.3.zip": 1288,
+        "AI-on-the-edge-device__update__v15.0.3.zip": 1275
+    },
+    "15.1.0": {
+        "AI-on-the-edge-device__manual-setup__v15.1.0.zip": 929,
+        "AI-on-the-edge-device__remote-setup__v15.1.0.zip": 400,
+        "AI-on-the-edge-device__update__v15.1.0.zip": 1186
+    },
+    "15.1.1": {
+        "AI-on-the-edge-device__manual-setup__v15.1.1.zip": 2405,
+        "AI-on-the-edge-device__remote-setup__v15.1.1.zip": 1008,
+        "AI-on-the-edge-device__update__v15.1.1.zip": 2622
+    },
+    "15.2.0": {
+        "AI-on-the-edge-device__manual-setup__v15.2.0.zip": 368,
+        "AI-on-the-edge-device__remote-setup__v15.2.0.zip": 159,
+        "AI-on-the-edge-device__update__v15.2.0.zip": 676
+    },
+    "15.2.1": {
+        "AI-on-the-edge-device__manual-setup__v15.2.1.zip": 349,
+        "AI-on-the-edge-device__remote-setup__v15.2.1.zip": 188,
+        "AI-on-the-edge-device__update__v15.2.1.zip": 631
+    },
+    "15.2.3": {
+        "AI-on-the-edge-device__manual-setup__v15.2.3.zip": 2,
+        "AI-on-the-edge-device__remote-setup__v15.2.3.zip": 2,
+        "AI-on-the-edge-device__update__v15.2.3.zip": 16
+    }
+}
