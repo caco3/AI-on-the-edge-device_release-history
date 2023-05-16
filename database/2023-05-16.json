@@ -1,0 +1,52 @@
+{
+    "12.0.1": {
+        "firmware.bin": 4313,
+        "html-from-11.3.1.zip": 3474,
+        "initial_esp32_setup.zip": 3577,
+        "update.zip": 2499
+    },
+    "13.0.8": {
+        "initial_esp32_setup__13.0.8.zip": 3469,
+        "update__13.0.8.zip": 3277
+    },
+    "14.0.3": {
+        "AI-on-the-edge-device__manual-setup__v14.0.3.zip": 1554,
+        "AI-on-the-edge-device__remote-setup__v14.0.3.zip": 742,
+        "AI-on-the-edge-device__update__v14.0.3.zip": 1872
+    },
+    "15.0.1": {
+        "AI-on-the-edge-device__manual-setup__v15.0.1.zip": 362,
+        "AI-on-the-edge-device__remote-setup__v15.0.1.zip": 182,
+        "AI-on-the-edge-device__update__v15.0.1.zip": 587
+    },
+    "15.0.2": {
+        "AI-on-the-edge-device__manual-setup__v15.0.2.zip": 99,
+        "AI-on-the-edge-device__remote-setup__v15.0.2.zip": 53,
+        "AI-on-the-edge-device__update__v15.0.2.zip": 219
+    },
+    "15.0.3": {
+        "AI-on-the-edge-device__manual-setup__v15.0.3.zip": 1107,
+        "AI-on-the-edge-device__remote-setup__v15.0.3.zip": 1288,
+        "AI-on-the-edge-device__update__v15.0.3.zip": 1279
+    },
+    "15.1.0": {
+        "AI-on-the-edge-device__manual-setup__v15.1.0.zip": 930,
+        "AI-on-the-edge-device__remote-setup__v15.1.0.zip": 401,
+        "AI-on-the-edge-device__update__v15.1.0.zip": 1195
+    },
+    "15.1.1": {
+        "AI-on-the-edge-device__manual-setup__v15.1.1.zip": 2409,
+        "AI-on-the-edge-device__remote-setup__v15.1.1.zip": 1011,
+        "AI-on-the-edge-device__update__v15.1.1.zip": 2637
+    },
+    "15.2.0": {
+        "AI-on-the-edge-device__manual-setup__v15.2.0.zip": 390,
+        "AI-on-the-edge-device__remote-setup__v15.2.0.zip": 169,
+        "AI-on-the-edge-device__update__v15.2.0.zip": 723
+    },
+    "15.2.4": {
+        "AI-on-the-edge-device__manual-setup__v15.2.4.zip": 868,
+        "AI-on-the-edge-device__remote-setup__v15.2.4.zip": 406,
+        "AI-on-the-edge-device__update__v15.2.4.zip": 1423
+    }
+}
