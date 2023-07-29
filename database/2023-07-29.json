@@ -1,0 +1,51 @@
+{
+    "13.0.8": {
+        "initial_esp32_setup__13.0.8.zip": 3516,
+        "update__13.0.8.zip": 3423
+    },
+    "14.0.3": {
+        "AI-on-the-edge-device__manual-setup__v14.0.3.zip": 1569,
+        "AI-on-the-edge-device__remote-setup__v14.0.3.zip": 754,
+        "AI-on-the-edge-device__update__v14.0.3.zip": 1950
+    },
+    "15.0.1": {
+        "AI-on-the-edge-device__manual-setup__v15.0.1.zip": 368,
+        "AI-on-the-edge-device__remote-setup__v15.0.1.zip": 189,
+        "AI-on-the-edge-device__update__v15.0.1.zip": 628
+    },
+    "15.0.2": {
+        "AI-on-the-edge-device__manual-setup__v15.0.2.zip": 102,
+        "AI-on-the-edge-device__remote-setup__v15.0.2.zip": 55,
+        "AI-on-the-edge-device__update__v15.0.2.zip": 236
+    },
+    "15.0.3": {
+        "AI-on-the-edge-device__manual-setup__v15.0.3.zip": 1113,
+        "AI-on-the-edge-device__remote-setup__v15.0.3.zip": 1292,
+        "AI-on-the-edge-device__update__v15.0.3.zip": 1305
+    },
+    "15.1.0": {
+        "AI-on-the-edge-device__manual-setup__v15.1.0.zip": 938,
+        "AI-on-the-edge-device__remote-setup__v15.1.0.zip": 408,
+        "AI-on-the-edge-device__update__v15.1.0.zip": 1229
+    },
+    "15.1.1": {
+        "AI-on-the-edge-device__manual-setup__v15.1.1.zip": 2430,
+        "AI-on-the-edge-device__remote-setup__v15.1.1.zip": 1027,
+        "AI-on-the-edge-device__update__v15.1.1.zip": 2685
+    },
+    "15.2.0": {
+        "AI-on-the-edge-device__manual-setup__v15.2.0.zip": 443,
+        "AI-on-the-edge-device__remote-setup__v15.2.0.zip": 194,
+        "AI-on-the-edge-device__update__v15.2.0.zip": 832
+    },
+    "15.2.4": {
+        "AI-on-the-edge-device__manual-setup__v15.2.4.zip": 4115,
+        "AI-on-the-edge-device__remote-setup__v15.2.4.zip": 1831,
+        "AI-on-the-edge-device__update__v15.2.4.zip": 4304
+    },
+    "15.3.0": {
+        "AI-on-the-edge-device__manual-setup__v15.3.0.zip": 421,
+        "AI-on-the-edge-device__remote-setup__v15.3.0.zip": 191,
+        "AI-on-the-edge-device__update__v15.3.0.zip": 751
+    }
+}
