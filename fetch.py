@@ -3,15 +3,12 @@ import json
 from pprint import pprint
 from datetime import date
 
-
-
 url = "https://api.github.com/repos/jomjol/AI-on-the-edge-device/releases?page=1&per_page=20"
 
 response = urlopen(url)
 data_json = json.loads(response.read())
 
 summary = {}
-
 
 for releaseIndex in range(0, len(data_json)):
     release_name = data_json[releaseIndex]['name']
@@ -22,7 +19,6 @@ for releaseIndex in range(0, len(data_json)):
         asset_download_count = data_json[releaseIndex]['assets'][assetIndex]['download_count']
 
         summary[release_name][asset_name] = asset_download_count
-
 
 
 #pprint(summary)
