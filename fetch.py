@@ -5,7 +5,7 @@ from datetime import date
 
 
 
-url = "https://api.github.com/repos/jomjol/AI-on-the-edge-device/releases?page=1&per_page=10"
+url = "https://api.github.com/repos/jomjol/AI-on-the-edge-device/releases?page=1&per_page=20"
 
 response = urlopen(url)
 data_json = json.loads(response.read())
