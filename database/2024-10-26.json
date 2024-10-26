@@ -1,0 +1,101 @@
+{
+    "11.3.1 - Intermediate Digits": {
+        "firmware.bin": 2535,
+        "html.zip": 2360
+    },
+    "12.0.1": {
+        "firmware.bin": 4681,
+        "html-from-11.3.1.zip": 3799,
+        "initial_esp32_setup.zip": 3669,
+        "update.zip": 2795
+    },
+    "13.0.8": {
+        "initial_esp32_setup__13.0.8.zip": 3675,
+        "update__13.0.8.zip": 3848
+    },
+    "14.0.3": {
+        "AI-on-the-edge-device__manual-setup__v14.0.3.zip": 1701,
+        "AI-on-the-edge-device__remote-setup__v14.0.3.zip": 807,
+        "AI-on-the-edge-device__update__v14.0.3.zip": 2245
+    },
+    "15.0.1": {
+        "AI-on-the-edge-device__manual-setup__v15.0.1.zip": 403,
+        "AI-on-the-edge-device__remote-setup__v15.0.1.zip": 209,
+        "AI-on-the-edge-device__update__v15.0.1.zip": 758
+    },
+    "15.0.2": {
+        "AI-on-the-edge-device__manual-setup__v15.0.2.zip": 122,
+        "AI-on-the-edge-device__remote-setup__v15.0.2.zip": 66,
+        "AI-on-the-edge-device__update__v15.0.2.zip": 294
+    },
+    "15.0.3": {
+        "AI-on-the-edge-device__manual-setup__v15.0.3.zip": 1152,
+        "AI-on-the-edge-device__remote-setup__v15.0.3.zip": 1313,
+        "AI-on-the-edge-device__update__v15.0.3.zip": 1422
+    },
+    "15.1.0": {
+        "AI-on-the-edge-device__manual-setup__v15.1.0.zip": 991,
+        "AI-on-the-edge-device__remote-setup__v15.1.0.zip": 428,
+        "AI-on-the-edge-device__update__v15.1.0.zip": 1335
+    },
+    "15.1.1": {
+        "AI-on-the-edge-device__manual-setup__v15.1.1.zip": 2475,
+        "AI-on-the-edge-device__remote-setup__v15.1.1.zip": 1037,
+        "AI-on-the-edge-device__update__v15.1.1.zip": 2766
+    },
+    "15.2.0": {
+        "AI-on-the-edge-device__manual-setup__v15.2.0.zip": 514,
+        "AI-on-the-edge-device__remote-setup__v15.2.0.zip": 223,
+        "AI-on-the-edge-device__update__v15.2.0.zip": 956
+    },
+    "15.2.4": {
+        "AI-on-the-edge-device__manual-setup__v15.2.4.zip": 4329,
+        "AI-on-the-edge-device__remote-setup__v15.2.4.zip": 1907,
+        "AI-on-the-edge-device__update__v15.2.4.zip": 4635
+    },
+    "15.3.0": {
+        "AI-on-the-edge-device__manual-setup__v15.3.0.zip": 8263,
+        "AI-on-the-edge-device__remote-setup__v15.3.0.zip": 4234,
+        "AI-on-the-edge-device__update__v15.3.0.zip": 7630
+    },
+    "15.4.0": {
+        "AI-on-the-edge-device__manual-setup__v15.4.0.zip": 3281,
+        "AI-on-the-edge-device__remote-setup__v15.4.0.zip": 1949,
+        "AI-on-the-edge-device__update__v15.4.0.zip": 4427
+    },
+    "15.5.0": {
+        "AI-on-the-edge-device__manual-setup__v15.5.0.zip": 709,
+        "AI-on-the-edge-device__remote-setup__v15.5.0.zip": 365,
+        "AI-on-the-edge-device__update__v15.5.0.zip": 1501
+    },
+    "15.6.0": {
+        "AI-on-the-edge-device__manual-setup__v15.6.0.zip": 964,
+        "AI-on-the-edge-device__remote-setup__v15.6.0.zip": 561,
+        "AI-on-the-edge-device__update__v15.6.0.zip": 2294
+    },
+    "15.7.0": {
+        "AI-on-the-edge-device__manual-setup__v15.7.0.zip": 11430,
+        "AI-on-the-edge-device__remote-setup__v15.7.0.zip": 6699,
+        "AI-on-the-edge-device__update__v15.7.0.zip": 11995
+    },
+    "16.0.0-RC1": {
+        "AI-on-the-edge-device__manual-setup__v16-0-0-RC1.zip": 139,
+        "AI-on-the-edge-device__remote-setup__v16-0-0-RC1.zip": 76,
+        "AI-on-the-edge-device__update__v16-0-0-RC1.zip": 346
+    },
+    "16.0.0-RC2": {
+        "AI-on-the-edge-device__manual-setup__16.0.0-RC2.zip": 32,
+        "AI-on-the-edge-device__remote-setup__16.0.0-RC2.zip": 20,
+        "AI-on-the-edge-device__update__16.0.0-RC2.zip": 107
+    },
+    "16.0.0-RC3": {
+        "AI-on-the-edge-device__manual-setup__v16.0.0-RC3.zip": 27,
+        "AI-on-the-edge-device__remote-setup__v16.0.0-RC3.zip": 17,
+        "AI-on-the-edge-device__update__v16.0.0-RC3.zip": 116
+    },
+    "16.0.0-RC4": {
+        "AI-on-the-edge-device__manual-setup__16.0.0-RC4.zip": 479,
+        "AI-on-the-edge-device__remote-setup__16.0.0-RC4.zip": 293,
+        "AI-on-the-edge-device__update__16.0.0-RC4.zip": 867
+    }
+}
