@@ -3,7 +3,7 @@ import json
 from pprint import pprint
 from datetime import date
 
-url = "https://api.github.com/repos/jomjol/AI-on-the-edge-device/releases?page=1&per_page=20"
+url = "https://api.github.com/repos/jomjol/AI-on-the-edge-device/releases?page=1&per_page=25"
 
 response = urlopen(url)
 data_json = json.loads(response.read())
