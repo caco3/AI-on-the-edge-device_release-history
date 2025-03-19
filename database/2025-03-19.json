@@ -1,4 +1,25 @@
 {
+    "11.1.1 - Intermediate Digits": {},
+    "11.2.0 - Intermediate Digits": {
+        "bootloader.bin": 1263,
+        "firmware.bin": 1019,
+        "html.zip": 866,
+        "partitions.bin": 1191
+    },
+    "11.3.1 - Intermediate Digits": {
+        "firmware.bin": 2574,
+        "html.zip": 2404
+    },
+    "12.0.1": {
+        "firmware.bin": 4736,
+        "html-from-11.3.1.zip": 3854,
+        "initial_esp32_setup.zip": 3687,
+        "update.zip": 2852
+    },
+    "13.0.8": {
+        "initial_esp32_setup__13.0.8.zip": 3705,
+        "update__13.0.8.zip": 3926
+    },
     "14.0.3": {
         "AI-on-the-edge-device__manual-setup__v14.0.3.zip": 1723,
         "AI-on-the-edge-device__remote-setup__v14.0.3.zip": 814,
@@ -55,19 +76,19 @@
         "AI-on-the-edge-device__update__v15.5.0.zip": 1567
     },
     "15.6.0": {
-        "AI-on-the-edge-device__manual-setup__v15.6.0.zip": 1111,
-        "AI-on-the-edge-device__remote-setup__v15.6.0.zip": 627,
-        "AI-on-the-edge-device__update__v15.6.0.zip": 2605
+        "AI-on-the-edge-device__manual-setup__v15.6.0.zip": 1112,
+        "AI-on-the-edge-device__remote-setup__v15.6.0.zip": 628,
+        "AI-on-the-edge-device__update__v15.6.0.zip": 2606
     },
     "15.7.0": {
-        "AI-on-the-edge-device__manual-setup__v15.7.0.zip": 16933,
-        "AI-on-the-edge-device__remote-setup__v15.7.0.zip": 10009,
-        "AI-on-the-edge-device__update__v15.7.0.zip": 16497
+        "AI-on-the-edge-device__manual-setup__v15.7.0.zip": 16935,
+        "AI-on-the-edge-device__remote-setup__v15.7.0.zip": 10011,
+        "AI-on-the-edge-device__update__v15.7.0.zip": 16504
     },
     "16.0.0": {
-        "AI-on-the-edge-device__manual-setup__v16.0.0.zip": 266,
-        "AI-on-the-edge-device__remote-setup__v16.0.0.zip": 203,
-        "AI-on-the-edge-device__update__v16.0.0.zip": 882
+        "AI-on-the-edge-device__manual-setup__v16.0.0.zip": 318,
+        "AI-on-the-edge-device__remote-setup__v16.0.0.zip": 242,
+        "AI-on-the-edge-device__update__v16.0.0.zip": 1028
     },
     "16.0.0-RC1": {
         "AI-on-the-edge-device__manual-setup__v16-0-0-RC1.zip": 166,
@@ -97,6 +118,6 @@
     "16.0.0-RC7": {
         "AI-on-the-edge-device__manual-setup__16.0.0-RC7.zip": 410,
         "AI-on-the-edge-device__remote-setup__16.0.0-RC7.zip": 243,
-        "AI-on-the-edge-device__update__16.0.0-RC7.zip": 900
+        "AI-on-the-edge-device__update__16.0.0-RC7.zip": 903
     }
 }
